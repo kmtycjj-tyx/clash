@@ -1,7 +1,7 @@
 config config_subscribe
 	option enabled '1'
 	option name 'cf'
-	option address 'https://sbps.kmcat.us.kg/kmtyx'
+	option address 'https://sbps..us.kg/kmtyx'
 	option sub_ua 'clash.meta'
 	option sub_convert '0'
 	option emoji 'false'
